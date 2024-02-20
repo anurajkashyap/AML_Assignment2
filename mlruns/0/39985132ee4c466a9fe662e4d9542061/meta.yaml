@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/39985132ee4c466a9fe662e4d9542061/artifacts
+deleted_time: 1708437007894
 end_time: 1708239405239
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 39985132ee4c466a9fe662e4d9542061
 run_name: casual-shoat-301
 run_uuid: 39985132ee4c466a9fe662e4d9542061
